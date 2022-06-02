@@ -1,5 +1,5 @@
 # Roadmap
 
-DeFi Land is combination of 4 different modes: Gamified DeFi (Free for everyone), Play-2-earn, Adventure, Multiplayer. All these will be available across several different blockchains starting with Solana Land.
+DeFi Land არის კომბინაცია 4 განსხვავებული რეჟიმის: თამაშად ქცეული DeFi (უფასო ყველასთვის), ითამაშე რათა გამოუმუშავო, თავგადასავლები, მრავალმოთამაშიანი. ეს ყველაფერი წარმოდგენილი იქნება სხვადასხვა ბლოქჩეინზე, დაწყებული Solana Land-დან.
 
 ![](<../.gitbook/assets/image (7) (1).png>)
