@@ -41,7 +41,7 @@
 
 * [გუნდი](information/team.md)
 * [ინვესტორები და პარტნიორები](information/investors-and-partners.md)
-* [Roadmap](information/roadmap.md)
+* [გზამკვლევი](information/roadmap.md)
 * [ხშირად დასმული კითხვები](information/f.a.q..md)
 * [საჭირო მისამართები](information/links.md)
 * [ტექნოლოგია](information/technology.md)
