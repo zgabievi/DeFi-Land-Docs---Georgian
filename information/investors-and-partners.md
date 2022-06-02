@@ -1,6 +1,6 @@
 # ინვესტორები და პარტნიორები
 
-### Key notable investors of DeFi Land
+### DeFi Land-ის მთავარი ინვესტორები
 
 * FTX
 * Alameda
@@ -16,9 +16,9 @@
 * Dialectic
 * Sky Vision Capital
 * NGC Ventures
-* Sebastien Borget - Founder SandBox
-* Santiago Santos - Partner at ParaFi
+* Sebastien Borget - SandBox-ის დამაარსებელი
+* Santiago Santos - ParaFi-ს პარტნიორი
 
-See more at [https://defiland.app/#investors](https://defiland.app/#investors)
+იხილეთ მეტი ინვესტორები: [https://defiland.app/#investors](https://defiland.app/#investors)
 
 ![](<../.gitbook/assets/image (1).png>)
