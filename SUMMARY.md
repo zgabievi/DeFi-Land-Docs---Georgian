@@ -6,8 +6,8 @@
 ## თამაშის მექანიკა <a href="#gameplay" id="gameplay"></a>
 
 * [Gamified DeFi Land - Free to Play](gameplay/gamified-defi-land-free-to-play/README.md)
-  * [Decentrialized Finance](gameplay/gamified-defi-land-free-to-play/decentralized-finance.md)
-  * [Buildings](gameplay/gamified-defi-land-free-to-play/buildings.md)
+  * [დეცენტრალიზებული ფინანსები](gameplay/gamified-defi-land-free-to-play/decentralized-finance.md)
+  * [შენობები](gameplay/gamified-defi-land-free-to-play/buildings.md)
   * [Gameplay](gameplay/gamified-defi-land-free-to-play/gameplay.md)
   * [Achievements, Factions, and Referrals](gameplay/gamified-defi-land-free-to-play/achievements-factions-and-referrals.md)
   * [Retail Onboarding and Education](gameplay/gamified-defi-land-free-to-play/retail-onboarding-and-education.md)
@@ -31,7 +31,7 @@
 ## $DFL ტოკენი <a href="#dfl-token" id="dfl-token"></a>
 
 * [DeFi Land ტოკენი - DFL](dfl-token/defi-land-token-dfl/README.md)
-  * [Tokenomics](dfl-token/defi-land-token-dfl/tokenomics.md)
+  * [ტოკენომია](dfl-token/defi-land-token-dfl/tokenomics.md)
 
 ## საზოგადოება <a href="#community" id="community"></a>
 
