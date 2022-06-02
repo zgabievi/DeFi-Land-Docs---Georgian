@@ -1,19 +1,18 @@
 # ხშირად დასმული კითხვები
 
-**Q: როგორ ჩავერთოთ თამაშში?** \
-A: თქვენ შეგიძლიათ ითამაშოთ საჯარო ბეტა თამაში: [https://play.defiland.app/](https://play.defiland.app/)&#x20;
+**Q: How to access the game?** \
+A: You can test the public beta of our game at [https://play.defiland.app/](https://play.defiland.app/)&#x20;
 
-**Q: ვერიფიკაციის კოდი არ მიმიღია. რა ვქნა?** \
-A: შეამოწმეთ Spam და Promotional საქაღალდეები მეილზე. თუ ვერ იპოვით მეილს, შეეხმიანეთ გუნდის ნებმისიერ წევრს.&#x20;
+**Q: I didn't get the verification code. What to do?** A: Please check the Spam and Promotional folders as well. If still not in there, please reach out to the team members.&#x20;
 
-**Q: თამაში ჭედავს. რა გავაკეთო?** \
-A: ვებ თამაშებში უკეთესი გამოცდილებისთვის, ყოველთვის უნდა გქონდეთ ჩართული "Hardware acceleration" პარამეტრი. როგორ კეთდება ეს, შეგიძლიათ ნახოთ აქ: [https://intercom.help/glorify/en/articles/3730301-turn-hardware-acceleration-on-in-google-chrome](https://intercom.help/glorify/en/articles/3730301-turn-hardware-acceleration-on-in-google-chrome)&#x20;
+**Q: Game feels laggy. What should I do?** \
+A: For the best experience in web-games, you should always have a "Hardware acceleration" setting ON. Check how to do it here: [https://intercom.help/glorify/en/articles/3730301-turn-hardware-acceleration-on-in-google-chrome](https://intercom.help/glorify/en/articles/3730301-turn-hardware-acceleration-on-in-google-chrome)&#x20;
 
-**Q: ჩემი თამაში გაიჭედა. რა ვქნა?** \
-A: თამაში ჯერ კიდევ სატესტო რეჟიმშია და მას შეიძლება ჰქონდეს ხარვეზები. თუ გაიჭედებით, აცნობეთ გუნდს რა იყო ამის მიზეზი და სცადეთ გვერდის გადატვირთვა CTRL + SHIFT + R.
+**Q: My game got stuck. What to do?** \
+A: Please remember that our game is still in testing release and it might have some bugs. If you get gets stuck, let the team know what was the exact reason and try to hard refresh CTRL + SHIFT + R.
 
-**Q: გუნდის წევრმა მომწერა პირადში და რაღაცები მომთხოვა. რამდენად სწორია ეს?**\
-****A: არასწორია, ჩვენ არასდროს მოგწერთ პირადში. თუ ვინმემ მოგწერათ პირადში და გითხრათ რომ გუნდის წევრია, იცოდეთ რომ ეს სქემია და დაარეპორტეთ ისინი Discord და Telegram ჯგუფებში.
+**Q: Team member DMed me and asked for some stuff. Is it legit?**\
+****A: No, we will never DM you. If someone DMs you pretending to be a team member, know that it's a scam and report them in our Discord, Telegram groups.
 
-**Q: მინიმუმ რა ინვესტიციაა საჭირო რომ თამაში დავიწყო და თანხის გამომუშავება უკვე შემიძლია?**\
-****A: ამ ეტაპზე თამაში სატესტო ფაზაშია და ყველას შეუძლია მისი გატესტვა უფასოდ. არ არის აუცილებელი ინვესტიცია გააკეთოთ თამაშის დასაწყებად. გუნდების შეკიბრებები არის ერთადერთი გზა რომ გამოიმუშავოთ DFL ტოკენი. თუმცა, "ითამაშე რათა გამოიმუშავო" წარმოდგენილი იქნება 2022 წლის პირველი კვარტლის მეორე ნახევარში.
+**Q: What's the minimum investment required to start playing the game and can I earn money already?**\
+****A: Right now our game is in testing phase and everyone can test it for free. There is no required capital to start playing the game . The only way to earn DFL is to win in team competitions. However, Play-2-Earn will be introduced in the second half of Q1 2022.
