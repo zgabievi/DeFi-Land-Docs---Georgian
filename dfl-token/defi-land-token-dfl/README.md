@@ -1,6 +1,6 @@
-# DeFi Land Token - DFL
+# DeFi Land ტოკენი - DFL
 
-![Use Case Overview for $DFL and $GOLDY](<../../.gitbook/assets/image (6).png>)
+![Use Case Overview for $DFL and $GOLDY](<../../.gitbook/assets/image (6) (1).png>)
 
 $DFL is a governance and staking currency with an abundance of use cases in our ecosystem. $DFL will be the ruling currency in the game giving you the power to craft, upgrade, and boost. This will help you maximize your earning potential in DeFi Land. We will use $DFL to trade in our homegrown NFT marketplace without additional transaction fees.
 

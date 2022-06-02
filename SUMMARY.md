@@ -1,22 +1,23 @@
 # Table of contents
 
 * [მთავარი](README.md)
-* [მოტივაცია და გრძელვადიანი ვერსია](motivatsia-da-grdzelvadiani-versia.md)
+* [მოტივაცია და გრძელვადიანი ვერსია](motivation-and-long-term-vision.md)
 
-## Gameplay
+## თამაშის მექანიკა <a href="#gameplay" id="gameplay"></a>
 
 * [Gamified DeFi Land - Free to Play](gameplay/gamified-defi-land-free-to-play/README.md)
-  * [Decentrialized Finance](gameplay/gamified-defi-land-free-to-play/decentrialized-finance.md)
+  * [Decentrialized Finance](gameplay/gamified-defi-land-free-to-play/decentralized-finance.md)
   * [Buildings](gameplay/gamified-defi-land-free-to-play/buildings.md)
   * [Gameplay](gameplay/gamified-defi-land-free-to-play/gameplay.md)
   * [Achievements, Factions, and Referrals](gameplay/gamified-defi-land-free-to-play/achievements-factions-and-referrals.md)
   * [Retail Onboarding and Education](gameplay/gamified-defi-land-free-to-play/retail-onboarding-and-education.md)
   * [Additional Gamification Elements](gameplay/gamified-defi-land-free-to-play/additional-gamification-elements.md)
   * [Lore](gameplay/gamified-defi-land-free-to-play/lore.md)
-* [Play and Earn](gameplay/play-and-earn/README.md)
+* [ითამაშე და გამოიმუშავე](gameplay/play-and-earn/README.md)
   * [Gen-0 NFTs](gameplay/play-and-earn/gen-0-nfts.md)
   * [Rarity and Attributes](gameplay/play-and-earn/rarity-and-attributes.md)
   * [Active Game Mechanics](gameplay/play-and-earn/active-game-mechanics.md)
+  * [Idle Game Mechanics](gameplay/play-and-earn/idle-game-mechanics.md)
   * [Earning in DeFi Land](gameplay/play-and-earn/earning-in-defi-land.md)
   * [Formulas](gameplay/play-and-earn/formulas.md)
   * [NFT Renting, Boosting, and Crafting](gameplay/play-and-earn/nft-renting-boosting-and-crafting.md)
@@ -27,20 +28,20 @@
 * [Multiplayer Land](gameplay/multiplayer-land.md)
 * [Multichain Lands](gameplay/multichain-lands.md)
 
-## $DFL Token <a href="#dfl-token" id="dfl-token"></a>
+## $DFL ტოკენი <a href="#dfl-token" id="dfl-token"></a>
 
-* [DeFi Land Token - DFL](dfl-token/defi-land-token-dfl/README.md)
+* [DeFi Land ტოკენი - DFL](dfl-token/defi-land-token-dfl/README.md)
   * [Tokenomics](dfl-token/defi-land-token-dfl/tokenomics.md)
 
-## Community
+## საზოგადოება <a href="#community" id="community"></a>
 
 * [DeFi Land - A Community-Led Project](community/defi-land-a-community-led-project.md)
 
-## Information
+## ინფორმაცია <a href="#information" id="information"></a>
 
-* [გუნდი](information/gundi.md)
-* [ინვესტორები და პარტნიორები](information/investorebi-da-partniorebi.md)
+* [გუნდი](information/team.md)
+* [ინვესტორები და პარტნიორები](information/investors-and-partners.md)
 * [Roadmap](information/roadmap.md)
-* [ხშირად დასმული კითხვები](information/khshirad-dasmuli-kitkhvebi.md)
-* [საჭირო მისამართები](information/sachiro-misamartebi.md)
-* [ტექნოლოგია](information/teknologia.md)
+* [ხშირად დასმული კითხვები](information/f.a.q..md)
+* [საჭირო მისამართები](information/links.md)
+* [ტექნოლოგია](information/technology.md)

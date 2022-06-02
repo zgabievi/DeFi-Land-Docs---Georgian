@@ -4,7 +4,7 @@ description: Gamified Decentralized Finance
 
 # მთავარი
 
-![](<.gitbook/assets/image (5).png>)
+![](<.gitbook/assets/image (5) (1).png>)
 
 DeFi Land is a unique, multi-chain agriculture-simulation game created to gamify all aspects of decentralized finance. The main goal of the game is to make it easier and simpler for individuals to take part in the exciting world of DeFi and crypto, while also having the opportunity to have fun.
 

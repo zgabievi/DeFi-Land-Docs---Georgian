@@ -1,6 +1,6 @@
 # Multiplayer Land
 
-Multiplayer Land will be a feature that makes everyone happy. As you might have guessed from our [Broken link](broken-reference "mention") features, users will be able to challenge their friends in different activities such as farming, fishing, etc. Winning those challenges will generate XP as well as some in-game rewards.&#x20;
+Multiplayer Land will be a feature that makes everyone happy. As you might have guessed from our [Retail Onboarding and Education](gamified-defi-land-free-to-play/retail-onboarding-and-education.md) features, users will be able to challenge their friends in different activities such as farming, fishing, etc. Winning those challenges will generate XP as well as some in-game rewards.&#x20;
 
 That's great...but it gets even better. Most of us miss how we used to play "Mario Party" with friends. Some of you are playing "Pummel's Party" today as well.&#x20;
 

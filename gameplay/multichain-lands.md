@@ -1,6 +1,6 @@
 # Multichain Lands
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 DeFi Land is a multichain gamified asset management layer for decentralized finance. There are numerous things that users can do in DeFi Land. From simple swaps to detailed learning about the industry, DeFi Land is a great option for beginners to get started in the crypto industry. Not only do we gamify DeFi but also provide easy-to-use, low-entry-fee, play-to-earn games in the most adopted gaming style in the world: **farming.**
 
